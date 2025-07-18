@@ -1,1 +1,8 @@
-
+docker.io
+docker.com
+ghcr.io
+github.com
+grafana.com
+goauthentik.io
+sir-verfarm.at
+sir-verfarm.com
